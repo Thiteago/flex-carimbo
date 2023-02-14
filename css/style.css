@@ -164,6 +164,7 @@ img {
 	margin: 60px auto;
 	display: flex;
 	flex-wrap: wrap;
+	gap: 2px;
 }
 
 .caracteristicas-item {
